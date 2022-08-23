@@ -266,7 +266,7 @@ export default class Plc extends Component {
 
                         <button type="button" id="button" onClick={this.generator}>Gerar caminho</button>
                     </form>
-                    <p>R = TIC-180  X=FIC-164  AA=LIC-161  AD=PTR-101  AG=TI-165  AJ=TI-177  AM=TI-171  AP=TI-162  AS=LIC-167  AV=FTR-101  AY=TI-176  BB=FIC-171A  BE=FIC-171B BH=FIC-169 BK=TIC-170 BN=FIC-175 CL=TIC-182A  CO=TIC-182B</p>
+                    <p>R = TIC-180  X=FIC-164  AA=LIC-161  AD=PTR-101  AG=TI-165  AJ=TI-177  AM=TI-171  AP=TI-162  AS=LIC-167  AV=FTR-101  AY=TI-176  BB=FIC-173A  BE=FIC-173B BH=FIC-169 BK=TIC-170 BN=FIC-175 CL=TIC-182A  CO=TIC-182B</p>
                 </div>
                 <div>
                     <table>
